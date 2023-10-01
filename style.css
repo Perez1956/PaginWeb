@@ -1,0 +1,10 @@
+.img-logo {
+  width: 15rem;
+  height: 10rem;
+}
+
+.nav-list {
+  justify-content: end;
+  display: flex;
+  display: space-between;
+}
